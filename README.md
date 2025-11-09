@@ -13,9 +13,6 @@
 
 ## 🎓 Education
 
-- **Indian Institute of Technology Madras (IITM)**  
-  *BS in Data Science & Applications (Online)* — *2025–2029*
-
 - **Siliguri Institute of Technology, West Bengal**  
   *B.Tech in Information Technology* — *2023–2027*
 

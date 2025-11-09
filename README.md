@@ -13,6 +13,9 @@
 
 ## 🎓 Education
 
+- **Indian Institute of Technology Madras (IITM)**  
+  *BS in Data Science & Applications (Online)* — *2025–2029*
+
 - **Siliguri Institute of Technology, West Bengal**  
   *B.Tech in Information Technology* — *2023–2027*
 
@@ -71,15 +74,32 @@
 
 ---
 
-## 🏆 Achievements
+## 🏅 National Achievements & Honors
 
-- 🥇 1st Place – Smart India Hackathon (College Level)  
-- 🥇 1st Place – Debate & Article Writing (English)  
-- 🏅 7th Nationwide – IIIT Kottayam AI/ML Hackathon  
-- 🏅 National Finalist – CIIS Hackathon (MP Police)  
-- 🎓 Class Representative – Siliguri Institute of Technology  
-- 🏫 School Captain – BSF Sr. Sec. Residential School  
-- 🎯 Rank 2769 – WBUT Common Entrance Test
+<div align="center">
+
+🎖️ **Top 7 Nationwide** – *IIIT Kottayam AI/ML Hackathon*  
+🧠 Selected among India's top teams for building an innovative machine learning solution under pressure.
+
+🛡️ **National Finalist** – *CIIS Hackathon (MP Police)*  
+🚓 Developed a tech-driven solution for law enforcement challenges. Chosen from hundreds of entries across India.
+
+🥇 **1st Place** – *Smart India Hackathon (College Level)*  
+💡 Led the winning team in a government-backed innovation challenge focused on solving real-world problems.
+
+🗣️ **1st Place** – *Debate & Article Writing (English)*  
+📝 Awarded for excellence in communication, critical thinking, and persuasive writing.
+
+🎓 **Rank 2769** – *WBUT Common Entrance Test*  
+📊 Secured a competitive rank in the West Bengal University of Technology entrance exam.
+
+🎖️ **Class Representative** – *Siliguri Institute of Technology (1st & 2nd Year)*  
+🧑‍🎓 Elected by peers for leadership and representation in academic and extracurricular matters.
+
+🏫 **School Captain** – *BSF Sr. Sec. Residential School*  
+🎯 Held the highest student leadership role, demonstrating initiative, responsibility, and team spirit.
+
+</div>
 
 ---
 

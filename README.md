@@ -5,9 +5,6 @@
 <p align="center">
   <a href="mailto:masuddarrahaman31@gmail.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/masuddar-rahaman">🔗 LinkedIn</a> • 
-  <a href="https://github.com/Masuddar">🐙 GitHub</a> • 
-  <a href="https://masuddar.dev">🧠 Portfolio</a> • 
-  <a href="https://masuddar.dev/blog">📝 Blog</a>
 </p>
 
 ---

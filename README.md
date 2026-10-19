@@ -13,9 +13,11 @@
 
 ## 🧰 Core Stack
 
-- **AI & Data:** TensorFlow, Scikit-learn, LLMs, NLP, Python
-- **Engineering:** Java, C/C++, TypeScript, React, Node.js
-- **Infrastructure:** AWS, Docker, PostgreSQL, Supabase
+- **Languages:** Java, Python, C/C++, TypeScript, SQL[cite: 7]
+- **AI & Data:** TensorFlow, Scikit-learn, LLMs, RAG, NLP, Vector DBs[cite: 7]
+- **Frontend & Mobile:** React.js, Flutter, Expo, Tailwind CSS[cite: 7]
+- **Backend & Databases:** Node.js, Django, PostgreSQL, MongoDB, Supabase[cite: 7]
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Vercel, Make.com[cite: 7]
 
 ---
 

@@ -13,11 +13,11 @@
 
 ## 🧰 Core Stack
 
-- **Languages:** Java, Python, C/C++, TypeScript, SQL[cite: 7]
-- **AI & Data:** TensorFlow, Scikit-learn, LLMs, RAG, NLP, Vector DBs[cite: 7]
-- **Frontend & Mobile:** React.js, Flutter, Expo, Tailwind CSS[cite: 7]
-- **Backend & Databases:** Node.js, Django, PostgreSQL, MongoDB, Supabase[cite: 7]
-- **Cloud & DevOps:** AWS, Docker, CI/CD, Vercel, Make.com[cite: 7]
+- **Languages:** Java, Python, C/C++, TypeScript, SQL
+- **AI & Data:** TensorFlow, Scikit-learn, LLMs, RAG, NLP, Vector DBs
+- **Frontend & Mobile:** React.js, Flutter, Expo, Tailwind CSS
+- **Backend & Databases:** Node.js, Django, PostgreSQL, MongoDB, Supabase
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Vercel, Make.com
 
 ---
 

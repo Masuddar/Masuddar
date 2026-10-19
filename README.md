@@ -9,8 +9,8 @@
 
 ## 🚀 Quick Facts
 
-- 💻 **Experience:** SWE Intern @ Algoritmo Lab | AIML Researcher @ IIT Ropar 
-- 🎓 **Education:** B.S. Data Science @ IIT Madras | B.Tech IT @ SIT
+- 💻 **Experience:** SWE Intern @ Algoritmo Lab | AIML Researcher @ IIT Ropar | Def-Space AI Intern @ Bharat Space Education Research Center
+- 🎓 **Education:** B.Tech Information Technology @ Siliguri Institute of Technology
 - 🛠️ **Building:** Founder of **KaizenStat** (Open-source ML auditing framework)
 
 ---
@@ -28,15 +28,6 @@
 - **AI & Data:** TensorFlow, Scikit-learn, LLMs, NLP, Python
 - **Engineering:** Java, C/C++, TypeScript, React, Node.js
 - **Infrastructure:** AWS, Docker, PostgreSQL, Supabase
-
----
-
-## 📊 Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masuddar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masuddar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
